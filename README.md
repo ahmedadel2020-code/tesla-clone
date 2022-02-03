@@ -1,7 +1,7 @@
 # Tesla Clone
 
 # Demo-Preview
-[Tesla Clone](https://would-you-rather-ahmed.herokuapp.com/)
+[Tesla Clone](https://tesla-clone-ahmed.herokuapp.com/)
 
 ## Overview
 - Developed The Dashboard page of Tesla.
